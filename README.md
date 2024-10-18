@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- <img src="https://github.com/dodosantosbr/AgenciaLP/blob/main/src/imagens/preview1.png?raw=true">
+ <img src="https://github.com/dodosantosbr/projeto-Garfield/blob/main/assets/preview.png?raw=true">
 </p>
 
 ## 💻 Projeto
