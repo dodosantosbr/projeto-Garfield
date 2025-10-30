@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
- <img src="https://github.com/dodosantosbr/projeto-Garfield/blob/main/assets/preview.png?raw=true">
+ <img width="1278" height="608" alt="image" src="https://github.com/user-attachments/assets/1959edad-2f36-4db7-b295-da0639e94ece" />
+
 </p>
 
 ## 💻 Projeto
